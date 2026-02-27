@@ -39,6 +39,7 @@ DevOps & Cloud:
 AWS(EC2) (S3) (IAM)
 (CLI), Git, GitHub,
 Linux, Jenkins, Docker, Kubernetes
+
 Tools:
 BMC Control-M,
 Informatica
