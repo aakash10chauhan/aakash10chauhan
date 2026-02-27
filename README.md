@@ -19,19 +19,27 @@ role.
 Professional Experience
 Production/Application Support Analyst
 Hexaware Technologies                                                       06/2021 – 11/2025
+
 •Check Email, Alerts, notification mails using MS Outlook
+
 •Developing/Monitoring Jobs using Scheduling tool such as Control M
+
 •Good knowledge of Linux
-•Resolving End user's tickets and requests while maintaining SLAs
-(Service Level Agreement)
+
+•Resolving End user's tickets and requests while maintaining SLAs (Service Level Agreement)
+
 •Check logs in case of failure of application and escalate to the respective team
+
 •Conduct deployments in Informatica, with hands-on experience in
 Informatica PowerCenter and Informatica Workflow Manager.
 Administrative tasks related to informatica data quality like monitor
 domains, repositories, monitor workflows, mappings, sessions and
 analyzing the root cause of the failure.
+
 •Fixing/tracking application related issues based on ticketing system
+
 •Responsible for implementing Change Management
+
 •Monitoring and analyzing to address potential issue and setup alerts for them
 
 Technical Skills
