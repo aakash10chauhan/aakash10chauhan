@@ -68,5 +68,6 @@ Education
 DevOps Executive with AWS Certification  
 IT Vendant Academy                                                           12/2025 – 06/2026
 Pursuing, Full-Time Weekends
+
 Bachelor of Science in Computer Science                                      06/2016 – 2020
 University of Mumbai
