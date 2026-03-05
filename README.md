@@ -3,9 +3,9 @@ Hi there 👋 I am Aakash Chauhan
 AWS and Devops Aspirant | Production Support Analyst
 | Linux, Control-M, Informatica, SQL, ServiceNow, ITIL
 
-📧 aakashranjeetchauhan@gmail.com 📱 +91 8652549914
-📍 Maharashtra, Navi Mumbai, Panvel 410206
-linkedin.com/in/aakash-chauhan-7915071b5
+📧 aakashranjeetchauhan@gmail.com 📱 | +91 8652549914
+| 📍 Maharashtra, Navi Mumbai, Panvel 410206
+| linkedin.com/in/aakash-chauhan-7915071b5
 
 Professional Summary
 ----------------------------------------------------------------------------------------------------
