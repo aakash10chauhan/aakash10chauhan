@@ -15,7 +15,7 @@ Management and Operational Data Storage FMODS using Linux, Informatica, BMC Cont
 and ServiceNow. Strong background in ITIL processes, incident, problem, and change
 management. Currently upskilling in AWS and CI/CD pipelines to transition into a DevOps-focused
 role.
-Professional Experience
+**Professional Experience**
 Production/Application Support Analyst
 Hexaware Technologies                                                       06/2021 – 11/2025
 
@@ -44,29 +44,28 @@ analyzing the root cause of the failure.
 Technical Skills
 ----------------------------------------------------------------------------------------------------
 DevOps & Cloud:
-AWS(EC2) (S3) (IAM)
-(CLI), Git, GitHub,
-Linux, Jenkins, Docker, Kubernetes
+AWS, Git, GitHub, Linux, Jenkins, Docker, Kubernetes
 
 Tools:
-BMC Control-M,
-Informatica
-PowerCenter, MS
-SQL Server, Putty,
-WinSCP, ServiceNow,
-Jira
+BMC Control-M, Informatica PowerCenter, MS SQL Server, Putty, WinSCP, ServiceNow, Jira
 
 Project
 ----------------------------------------------------------------------------------------------------
-Static website resume with AWS EC2, Linux Ubuntu (Apache2), GitHub
-•The site is not currently hosted live on the internet to prevent ongoing credit consumption and
-associated costs in my AWS account. For demonstration purposes it can be launched on-demand.
+1. Static website with AWS EC2, S3, Linux Ubuntu (Apache2), GitHub
+• Versioned on Github and trigger jenkine pipeline with webhook
+• Parallel deployment on AWS EC2 and S3 using jenkins pipeline
+
+2. Containerize application using Docker
+• Dockerfile and docker-compose, backup storage using docker volume,
+  communicate between frontend and database using network bridge
+
+Course
+----------------------------------------------------------------------------------------------------
+**Devops Executive with AWS**                                                   12/2025 - 06/2026
+IT Vedant Academy 
+Pursuing, full-time weekends
 
 Education
 ----------------------------------------------------------------------------------------------------
-DevOps Executive with AWS Certification  
-IT Vendant Academy                                                           12/2025 – 06/2026
-Pursuing, Full-Time Weekends
-
-Bachelor of Science in Computer Science                                      06/2016 – 2020
+**Bachelor of Science in Computer Science**                                      06/2016 – 2020
 University of Mumbai
