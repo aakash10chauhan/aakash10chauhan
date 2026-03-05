@@ -2,7 +2,7 @@ Hi there 👋 I am Aakash Chauhan
 ----------------------------------------------------------------------------------------------------
 AWS and Devops Aspirant
 
-📧 aakashranjeetchauhan@gmail.com 📱 | +91 8652549914
+📧 aakashranjeetchauhan@gmail.com  | 📱 +91 8652549914
 | 📍 Maharashtra, Navi Mumbai, Panvel 410206
 | linkedin.com/in/aakash-chauhan-7915071b5
 
