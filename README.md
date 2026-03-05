@@ -56,6 +56,7 @@ Project
 1. Static website with AWS EC2, S3, Linux Ubuntu (Apache2), GitHub
    
 • Versioned on Github and trigger jenkine pipeline with webhook
+
 • Parallel deployment on AWS EC2 and S3 using jenkins pipeline
 
 2. Containerize application using Docker
