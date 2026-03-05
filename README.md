@@ -15,8 +15,11 @@ Management and Operational Data Storage FMODS using Linux, Informatica, BMC Cont
 and ServiceNow. Strong background in ITIL processes, incident, problem, and change
 management. Currently upskilling in AWS and CI/CD pipelines to transition into a DevOps-focused
 role.
+
 **Professional Experience**
+
 Production/Application Support Analyst
+
 Hexaware Technologies                                                       06/2021 – 11/2025
 
 •Check Email, Alerts, notification mails using MS Outlook
