@@ -19,7 +19,6 @@ role.
 **Professional Experience**
 
 Production/Application Support Analyst
-
 Hexaware Technologies                                                       06/2021 – 11/2025
 
 •Check Email, Alerts, notification mails using MS Outlook
@@ -65,10 +64,12 @@ Project
 Course
 ----------------------------------------------------------------------------------------------------
 **Devops Executive with AWS**                                                   12/2025 - 06/2026
+
 IT Vedant Academy 
 Pursuing, full-time weekends
 
 Education
 ----------------------------------------------------------------------------------------------------
 **Bachelor of Science in Computer Science**                                      06/2016 – 2020
+
 University of Mumbai
