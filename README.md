@@ -53,11 +53,16 @@ BMC Control-M, Informatica PowerCenter, MS SQL Server, Putty, WinSCP, ServiceNow
 
 Project
 ----------------------------------------------------------------------------------------------------
-1. Static website with AWS EC2, S3, Linux Ubuntu (Apache2), GitHub
-   
-• Versioned on Github and trigger jenkine pipeline with webhook
+1. CI/CD Automation using AWS, Docker, Jenkins, Github
 
-• Parallel deployment on AWS EC2 and S3 using jenkins pipeline
+- Reduce manual implementation and automating Pull, Built, Tag, Push process
+- Version Application
+
+This project helped me understand:
+End-to-end CI/CD workflows
+Docker image lifecycle (build, tag, push)
+Jenkins pipeline automation
+Best practices for reproducible and scalable deployments
 
 2. Containerize application using Docker
    
